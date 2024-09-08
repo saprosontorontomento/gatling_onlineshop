@@ -1,2 +1,4 @@
 /target
 /.mvn/wrapper/*.jar
+/src/test/java/computerdatabase
+/.gatling/example.package.conf
